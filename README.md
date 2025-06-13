@@ -34,7 +34,7 @@ This application uses a Random Forest classifier to predict whether a loan appli
 
 ## Usage
 
-Run the application with:
+Run the application with:-
 
 ```
 streamlit run app.py
